@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://kemono.games">
-  <img src="https://kemono.games/icons/android-chrome-192x192.png" width="120" alt="Kemono Games" />
+  <img src="https://raw.githubusercontent.com/kemono-games/.github/main/profile/logo.png" width="140" alt="Kemono Games" />
 </a>
 
 # Kemono Games
